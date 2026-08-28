@@ -10,3 +10,4 @@
 "teach me what is factory method and examples of this design pattern"
 - Gemini. Gemini 3.1 Pro, Google, gemini.google.com, prompt:
 "implement adapter design pattern in C++"
+- OpenCode. Big Pickle, OpenCode Zen, accessed during the Aug 28, 2026 session, prompt: "implement the factory method pattern solution for this problem like the diagram @diagram.md" — used to implement the Factory Method design pattern for the logistics problem, creating the full class hierarchy (Transport interface, Truck/Ship concrete products, Logistics abstract creator, RoadLogistics/MaritimeLogistics concrete creators) with header+cpp separation, Makefile, and verification build.
