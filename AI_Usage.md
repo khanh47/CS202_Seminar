@@ -6,3 +6,7 @@
 “more compact? merge subsections into sections”, used to simplify the presentation table of contents.
 – ChatGPT. GPT-5.6 Sol, OpenAI, chat.openai.com, prompt:
 “any better naive solutions? like make more sense but is still worse than the abstract factory”
+- Gemini. Gemini 3.1 Pro, Google, gemini.google.com, prompt:
+"teach me what is factory method and examples of this design pattern"
+- Gemini. Gemini 3.1 Pro, Google, gemini.google.com, prompt:
+"implement adapter design pattern in C++"
