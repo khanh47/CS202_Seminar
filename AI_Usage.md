@@ -11,3 +11,7 @@
 - Gemini. Gemini 3.1 Pro, Google, gemini.google.com, prompt:
 "implement adapter design pattern in C++"
 - OpenCode. Big Pickle, OpenCode Zen, accessed during the July 27, 2026 session, prompt: "implement the factory method pattern solution for this problem like the diagram @diagram.md" — used to implement the Factory Method design pattern for the logistics problem, creating the full class hierarchy (Transport interface, Truck/Ship concrete products, Logistics abstract creator, RoadLogistics/MaritimeLogistics concrete creators) with header+cpp separation, Makefile, and verification build.
+- Antigravity, Gemini Flash 3.7 (High), prompt: "prepare knowledge and resources for abstract factory pattern" - used to learn about abstract factory pattern and implementation.
+- Antigravity, Gemini Flash 3.7 (High), prompt: "make a small project about abstract factory pattern" - used to learn how to apply the pattern into real-life problems.
+- Antigravity, Gemini Flash 3.7 (High), prompt: "what is adapter pattern and give me examples with detailed explanations" - used to learn about adapter pattern.
+- Antigravity, Gemini Flash 3.7 (High), prompt: "give me some small projects using adapter pattern" - used to understand which situations adapter pattern will be used.
